@@ -1,0 +1,16 @@
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/hello/Corpus.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/grpc-java/com/ks/proto/hello/GreeterGrpc.java
+/Users/malingling/IdeaProjects/grpc/src/main/java/com/ks/grpc/client/MathClient.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/grpc-java/com/ks/proto/math/MathServiceGrpc.java
+/Users/malingling/IdeaProjects/grpc/src/main/java/com/ks/grpc/server/MathServer.java
+/Users/malingling/IdeaProjects/grpc/src/main/java/com/ks/grpc/server/MathServiceImpl.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/math/MathResponseOrBuilder.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/hello/HelloRequestOrBuilder.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/math/MathRequestOrBuilder.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/hello/HelloReply.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/math/MathRequest.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/math/MathProto.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/hello/HelloReplyOrBuilder.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/math/MathResponse.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/hello/HelloWorldProto.java
+/Users/malingling/IdeaProjects/grpc/target/generated-sources/protobuf/java/com/ks/proto/hello/HelloRequest.java

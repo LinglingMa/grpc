@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.ks.proto.math";
+option java_outer_classname = "MathProto";
+
+message MathRequest {
+    int32 num1 = 1;
+    int32 num2 = 2;
+}
+
+message MathResponse {
+    int32 res = 1;
+}
+
+service MathService {
+    rpc add (MathRequest) returns (MathResponse);
+    rpc minus (MathRequest) returns (MathResponse);
+    rpc multi (MathRequest) returns (MathResponse);
+    rpc divide (MathRequest) returns (MathResponse);
+}
